@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani');
+
+:root {
+    --font-primary: 'Rajdhani'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+}
